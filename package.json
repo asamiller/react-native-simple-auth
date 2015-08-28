@@ -7,9 +7,6 @@
     "start": "node_modules/react-native/packager/packager.sh",
     "test": "mocha ./test/* --compilers js:mocha-traceur"
   },
-  "dependencies": {
-    "react-native": "0.4.4"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/adamjmcgrath/react-native-simple-auth"
